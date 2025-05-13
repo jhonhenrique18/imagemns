@@ -1,0 +1,16 @@
+[12-May-2025 16:27:42 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function sanitizar() in /home3/lollad10/graosfoz.com.br/catalogo/admin/index.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/lollad10/graosfoz.com.br/catalogo/admin/index.php on line 20
+[12-May-2025 16:51:06 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function sanitizar() in /home3/lollad10/graosfoz.com.br/catalogo/admin/index.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/lollad10/graosfoz.com.br/catalogo/admin/index.php on line 20
+[13-May-2025 19:00:39 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function sanitizar() in /home3/lollad10/graosfoz.com.br/catalogo2/admin/index.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/lollad10/graosfoz.com.br/catalogo2/admin/index.php on line 20
+[13-May-2025 19:01:45 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function sanitizar() in /home3/lollad10/graosfoz.com.br/catalogo2/admin/index.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/lollad10/graosfoz.com.br/catalogo2/admin/index.php on line 20

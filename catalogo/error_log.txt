@@ -1,0 +1,45 @@
+[11-May-2025 23:53:43 America/Asuncion] PHP Warning:  Array to string conversion in /home3/lollad10/graosfoz.com.br/catalogo/includes/conexao.php on line 30
+[11-May-2025 23:53:43 America/Asuncion] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1327 Undeclared variable: nome in /home3/lollad10/graosfoz.com.br/catalogo/includes/conexao.php:37
+Stack trace:
+#0 /home3/lollad10/graosfoz.com.br/catalogo/includes/conexao.php(37): PDO->prepare('SELECT * FROM p...')
+#1 /home3/lollad10/graosfoz.com.br/catalogo/produtos.php(54): buscarRegistros('produtos', 'ativo = :ativo', Array, 'nome ASC')
+#2 {main}
+  thrown in /home3/lollad10/graosfoz.com.br/catalogo/includes/conexao.php on line 37
+[11-May-2025 23:53:47 America/Asuncion] PHP Warning:  Array to string conversion in /home3/lollad10/graosfoz.com.br/catalogo/includes/conexao.php on line 30
+[11-May-2025 23:53:47 America/Asuncion] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1327 Undeclared variable: nome in /home3/lollad10/graosfoz.com.br/catalogo/includes/conexao.php:37
+Stack trace:
+#0 /home3/lollad10/graosfoz.com.br/catalogo/includes/conexao.php(37): PDO->prepare('SELECT * FROM p...')
+#1 /home3/lollad10/graosfoz.com.br/catalogo/produtos.php(54): buscarRegistros('produtos', 'ativo = :ativo', Array, 'nome ASC')
+#2 {main}
+  thrown in /home3/lollad10/graosfoz.com.br/catalogo/includes/conexao.php on line 37
+[12-May-2025 08:27:26 America/Asuncion] PHP Warning:  Array to string conversion in /home3/lollad10/graosfoz.com.br/catalogo/includes/conexao.php on line 30
+[12-May-2025 08:27:26 America/Asuncion] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1327 Undeclared variable: nome in /home3/lollad10/graosfoz.com.br/catalogo/includes/conexao.php:37
+Stack trace:
+#0 /home3/lollad10/graosfoz.com.br/catalogo/includes/conexao.php(37): PDO->prepare('SELECT * FROM p...')
+#1 /home3/lollad10/graosfoz.com.br/catalogo/produtos.php(54): buscarRegistros('produtos', 'ativo = :ativo', Array, 'nome ASC')
+#2 {main}
+  thrown in /home3/lollad10/graosfoz.com.br/catalogo/includes/conexao.php on line 37
+[12-May-2025 09:51:19 America/Asuncion] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home3/lollad10/graosfoz.com.br/catalogo/includes/conexao.php:38
+Stack trace:
+#0 /home3/lollad10/graosfoz.com.br/catalogo/includes/conexao.php(38): PDOStatement->execute()
+#1 /home3/lollad10/graosfoz.com.br/catalogo/produtos.php(55): buscarRegistros('produtos', 'ativo = :ativo', 'nome ASC', NULL, NULL, Array)
+#2 {main}
+  thrown in /home3/lollad10/graosfoz.com.br/catalogo/includes/conexao.php on line 38
+[12-May-2025 09:51:22 America/Asuncion] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home3/lollad10/graosfoz.com.br/catalogo/includes/conexao.php:38
+Stack trace:
+#0 /home3/lollad10/graosfoz.com.br/catalogo/includes/conexao.php(38): PDOStatement->execute()
+#1 /home3/lollad10/graosfoz.com.br/catalogo/produtos.php(55): buscarRegistros('produtos', 'ativo = :ativo', 'nome ASC', NULL, NULL, Array)
+#2 {main}
+  thrown in /home3/lollad10/graosfoz.com.br/catalogo/includes/conexao.php on line 38
+[12-May-2025 10:38:10 America/Asuncion] PHP Fatal error:  Uncaught Error: Undefined constant "VALOR_FRETE_POR_KG_CONFIG" in /home3/lollad10/graosfoz.com.br/catalogo/checkout.php:169
+Stack trace:
+#0 {main}
+  thrown in /home3/lollad10/graosfoz.com.br/catalogo/checkout.php on line 169
+[12-May-2025 14:50:06 America/Asuncion] PHP Fatal error:  Uncaught Error: Undefined constant "VALOR_FRETE_POR_KG_CONFIG" in /home3/lollad10/graosfoz.com.br/catalogo/checkout.php:169
+Stack trace:
+#0 {main}
+  thrown in /home3/lollad10/graosfoz.com.br/catalogo/checkout.php on line 169
+[12-May-2025 14:53:49 America/Asuncion] PHP Fatal error:  Uncaught Error: Undefined constant "VALOR_FRETE_POR_KG_CONFIG" in /home3/lollad10/graosfoz.com.br/catalogo/checkout.php:169
+Stack trace:
+#0 {main}
+  thrown in /home3/lollad10/graosfoz.com.br/catalogo/checkout.php on line 169
